@@ -36,5 +36,8 @@ npm install
 
 # 4. Run the app locally
 npm run dev
+```
+
+![wb](https://github.com/user-attachments/assets/4b607da6-dc01-4a89-9912-e1049351dcd8)
 
 
