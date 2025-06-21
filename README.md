@@ -26,7 +26,7 @@ A simple React application that allows users to browse, view, and like blog post
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/votre-utilisateur/blog-post-viewer.git
+git clone https://github.com/jeffreys-ntchamba/blogTest
 
 # 2. Go to the project directory
 cd blogTest
